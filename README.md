@@ -25,4 +25,4 @@ NOTE: This lab does not have tests, so the `learn` command wont work. Instead, j
 
 
 
-<a href='https://learn.co/lessons/silly_string' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/silly_string' title='Silly String'>Silly String</a> on Learn.co and start learning to code for free.</p>
